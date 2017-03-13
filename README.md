@@ -19,5 +19,6 @@ Insure the risk of not revelation in time.
 ##### You get the name
 #### Cons
 ##### You have to trust with your bid a third party
-* revealing to early: [time-locked-puzzle](https://www.gwern.net/Self-decrypting%20files)
+* revealing to early: [time-locked-puzzle](https://www.gwern.net/Self-decrypting%20files)  
+
 ##### You pay insurance
