@@ -1,4 +1,7 @@
-# reveal-my-bid
+# Revelation as a Service
+
+Revelation as a Service is an DAO that prevents losing your ENS bid.
+While this requires some trusted individuals now, the aim is to substitute it with a cryptoenconomics model in the long run.
 
 ## Name bids in ENS burn the stake if you don't reveal in time
 * Revelation phase is ~48 hours
