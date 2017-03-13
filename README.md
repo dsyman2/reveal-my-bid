@@ -2,6 +2,7 @@
 
 ## Name bids in ENS burn the stake if you don't reveal in time
 * Revelation phase is ~48 hours
+
 ## Names can be very precious
 
 ## Solutions
